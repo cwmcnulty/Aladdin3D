@@ -1,0 +1,20 @@
+# Unreal Engine Temporary & Cache Directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+AndroidTestBuild/
+BackupForAIbullshit/
+
+# Code Compilation & IDE Files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Packaged Builds (If you accidentally output them inside the project folder)
+Builds/
